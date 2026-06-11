@@ -47,4 +47,4 @@ A aplicação conta com um módulo utilitário (Calculadora) projetado para roda
 3.    Bash
     npm run dev
 
-4. Acesse: http://localhost:3000
+4. Acesse: https://multicriterio-app.vercel.app/
